@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<link rel="stylesheet" href="style.css">
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<title> Project- Photo gallery</title>  
+    <h1> Grid Gallery </h1>
+    
+
+    </head>
+    <body>
+   <span id="Thanos" ><img src="https://tse4.mm.bing.net/th?id=OIP.GdXm_QAEVINfSPGbaUEu0wHaEo&pid=Api&P=0&w=293&h=184">
+    
+       <img src="https://tse4.mm.bing.net/th?id=OIP.qz9mSX3VJd7kgNLMLtPNawHaHa&pid=Api&P=0&w=300&h=300">
+       <img src="https://vignette.wikia.nocookie.net/p__/images/1/1e/Hulk_endgame.png/revision/latest?cb=20190509144938&path-prefix=protagonist">
+       
+        </span>
+        <div class="Hawkeye"> <img src="https://tse2.mm.bing.net/th?id=OIP.JZ9IoE_0-oJtL5H3gQV5MgHaEK&pid=Api&P=0&w=312&h=176">
+            <span class="Rhrudayesh"> <img src="https://tse2.mm.bing.net/th?id=OIP.bW7Oleyj4NQ9RkXkPWURvgHaEK&pid=Api&P=0&w=316&h=179">
+                <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2020/04/cptai.jpg">
+                <img src="https://cdn.pinkvilla.com/files/styles/contentpreview/public/iron-man-phase-4_0.jpg?itok=5eZBUTV1">
+                <img src="https://tse2.mm.bing.net/th?id=OIP.fsiWhkBOaILRd6olZJYUcwHaEK&pid=Api&P=0&w=316&h=179">
+                <img src="https://tse1.mm.bing.net/th?id=OIP.He3vHCBJppUWl_ZgqpKkUAHaFK&pid=Api&P=0&w=228&h=159">
+            
+            </span>
+            <br>
+            <br>
+            <h1>  </h1>
+            <ol class="carousel-indicators">
+            <li data-taget="#myCarousel" data-slide-to="0" class="activate">  
+                </li>
+                <li data-target="#myCarousel" data-slide-to="1"> </li>
+                <span class="Thanos"> <img src="https://tse3.mm.bing.net/th?id=OIP.BHO8KOHUPqAG0kN-G_TzhAHaEl&pid=Api&P=0&w=244&h=152">
+                
+                </span>
+                
+            </ol>
+        
+        </div>
+        
+       
+
+    
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
